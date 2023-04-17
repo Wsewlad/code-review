@@ -7,3 +7,5 @@
 - Open file and paste code from pdf documment using 'vi MusicAlbums.swift' command
 - Open file using XCode to fix formatting (to be equal to the document)
 - Decided just to add some suggestions in the file using `// TODO: - <comment>` syntax 
+
+## Please, open MusicAlbums.swift file for my suggestions.
